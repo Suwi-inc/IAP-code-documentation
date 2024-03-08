@@ -1,6 +1,6 @@
 
   <p style="text-align: center;">
-   <img width=100 height=100 src="Icons/innopolis-logo.png" alt="color picker" />
+   <img width=100 height=100 src="Assets/innopolis-logo.png" alt="color picker" />
    </p>
 <H1 style="text-align: center;">Project Overview
 </h1>

@@ -7,3 +7,4 @@
 - [Installation Guide](./installation/installation.md)
    - [backend](./installation/backend.md)
    - [frontend](./installation/frontend.md)
+- [Components](./components/components.md)

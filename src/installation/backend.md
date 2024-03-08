@@ -23,5 +23,5 @@ cd app
  ```
  docker run -p 8000:8000 -d alumni-backend
  ```
- by default the image will run on port 8000. To run on a different port change the -p value to an available port number
+ By default the image will run on port 8000. To run on a different port change the -p value to an available port number
 
